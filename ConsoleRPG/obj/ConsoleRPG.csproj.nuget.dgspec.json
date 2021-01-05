@@ -1,0 +1,56 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sverl\\RiderProjects\\ConsoleRPG\\ConsoleRPG\\ConsoleRPG.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sverl\\RiderProjects\\ConsoleRPG\\ConsoleRPG\\ConsoleRPG.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sverl\\RiderProjects\\ConsoleRPG\\ConsoleRPG\\ConsoleRPG.csproj",
+        "projectName": "ConsoleRPG",
+        "projectPath": "C:\\Users\\sverl\\RiderProjects\\ConsoleRPG\\ConsoleRPG\\ConsoleRPG.csproj",
+        "packagesPath": "C:\\Users\\sverl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sverl\\RiderProjects\\ConsoleRPG\\ConsoleRPG\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sverl\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net471"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net471": {
+            "targetAlias": "net471",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net471": {
+          "targetAlias": "net471",
+          "dependencies": {
+            "Npgsql": {
+              "target": "Package",
+              "version": "[5.0.1.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

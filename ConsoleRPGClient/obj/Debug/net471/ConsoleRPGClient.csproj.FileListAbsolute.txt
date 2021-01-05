@@ -1,0 +1,9 @@
+C:\Users\sverl\RiderProjects\ConsoleRPG\ConsoleRPGClient\bin\Debug\net471\ConsoleRPGClient.exe.config
+C:\Users\sverl\RiderProjects\ConsoleRPG\ConsoleRPGClient\bin\Debug\net471\ConsoleRPGClient.exe
+C:\Users\sverl\RiderProjects\ConsoleRPG\ConsoleRPGClient\bin\Debug\net471\ConsoleRPGClient.pdb
+C:\Users\sverl\RiderProjects\ConsoleRPG\ConsoleRPGClient\obj\Debug\net471\ConsoleRPGClient.csprojAssemblyReference.cache
+C:\Users\sverl\RiderProjects\ConsoleRPG\ConsoleRPGClient\obj\Debug\net471\ConsoleRPGClient.AssemblyInfoInputs.cache
+C:\Users\sverl\RiderProjects\ConsoleRPG\ConsoleRPGClient\obj\Debug\net471\ConsoleRPGClient.AssemblyInfo.cs
+C:\Users\sverl\RiderProjects\ConsoleRPG\ConsoleRPGClient\obj\Debug\net471\ConsoleRPGClient.csproj.CoreCompileInputs.cache
+C:\Users\sverl\RiderProjects\ConsoleRPG\ConsoleRPGClient\obj\Debug\net471\ConsoleRPGClient.exe
+C:\Users\sverl\RiderProjects\ConsoleRPG\ConsoleRPGClient\obj\Debug\net471\ConsoleRPGClient.pdb

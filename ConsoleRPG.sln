@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleRPG", "ConsoleRPG\ConsoleRPG.csproj", "{6CBB35F0-11E8-465F-9E99-940E7D35039E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleRPGClient", "ConsoleRPGClient\ConsoleRPGClient.csproj", "{F15075AB-ADAF-48C8-B3F5-CEBEBF3B423B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CBB35F0-11E8-465F-9E99-940E7D35039E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CBB35F0-11E8-465F-9E99-940E7D35039E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CBB35F0-11E8-465F-9E99-940E7D35039E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CBB35F0-11E8-465F-9E99-940E7D35039E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F15075AB-ADAF-48C8-B3F5-CEBEBF3B423B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F15075AB-ADAF-48C8-B3F5-CEBEBF3B423B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F15075AB-ADAF-48C8-B3F5-CEBEBF3B423B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F15075AB-ADAF-48C8-B3F5-CEBEBF3B423B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

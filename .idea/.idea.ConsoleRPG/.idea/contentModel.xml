@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\sverl\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\sverl\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_ConsoleRPG.1684918165.00" t="ExcludeRecursive" />
+    <e p="C:\Users\sverl\RiderProjects\ConsoleRPG" t="IncludeFlat">
+      <e p="ConsoleRPG" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ConsoleRPG.csproj" t="IncludeRecursive" />
+        <e p="Database" t="Include">
+          <e p="Connection.cs" t="Include" />
+          <e p="DBConfig.cs" t="Include" />
+          <e p="DBQueries.cs" t="Include" />
+        </e>
+        <e p="IConnectable.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net471" t="Include">
+              <e p="ConsoleRPG.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PlayableCreature" t="Include">
+          <e p="PC.cs" t="Include" />
+          <e p="PCAttackType.cs" t="Include" />
+          <e p="PCItem.cs" t="Include" />
+          <e p="PCItemStats.cs" t="Include" />
+          <e p="PCSkill.cs" t="Include" />
+          <e p="PCStats.cs" t="Include" />
+        </e>
+        <e p="Player" t="Include">
+          <e p="AuthenticationData.cs" t="Include" />
+          <e p="PlayerC.cs" t="Include" />
+          <e p="PlayerConnection.cs" t="Include" />
+          <e p="PlayerCStats.cs" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Server" t="Include">
+          <e p="ProcessRequests.cs" t="Include" />
+          <e p="RPGServer.cs" t="Include" />
+          <e p="ServerConfig.cs" t="Include" />
+          <e p="ServerPackets.cs" t="Include" />
+          <e p="TCPServerHandler.cs" t="Include" />
+        </e>
+        <e p="View" t="Include">
+          <e p="TextViews.cs" t="Include" />
+        </e>
+      </e>
+      <e p="ConsoleRPG.sln" t="IncludeFlat" />
+      <e p="ConsoleRPGClient" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ClientConfig.cs" t="Include" />
+        <e p="ClientPackets.cs" t="Include" />
+        <e p="ConnectionToServer.cs" t="Include" />
+        <e p="ConsoleRPGClient.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net471" t="Include">
+              <e p="ConsoleRPGClient.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="UserConnectionData.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
